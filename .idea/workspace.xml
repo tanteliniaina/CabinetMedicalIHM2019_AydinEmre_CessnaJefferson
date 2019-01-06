@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21e53a61-4049-4048-86c0-046c5ecb3246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/pers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/ren.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/cabinetInfirmier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/cabinetInfirmier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetIHM/L3M-Projet/data/hospital-icon.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="27530088">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="8" />
+          <entry key="TsLintLanguageService" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="15" />
+          <entry key="html" value="20" />
+          <entry key="json" value="1" />
+          <entry key="ts" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="15" />
+          <entry key="HTML" value="20" />
+          <entry key="JSON" value="1" />
+          <entry key="TypeScript" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="99" />
+          <entry key="html" value="794" />
+          <entry key="json" value="1" />
+          <entry key="ts" value="1770" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="99" />
+          <entry key="HTML" value="794" />
+          <entry key="JSON" value="1" />
+          <entry key="TypeScript" value="1770" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1288">
+              <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#h1#0;n#center#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#h1#0;n#center#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="5" column="131" selection-start-line="5" selection-start-column="131" selection-end-line="5" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ADR</find>
+      <find>lat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/adresse.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/infirmier.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/patient.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.spec.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/cabinet.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/cabinet-medical.service.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/package.json" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/material-module.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/polyfills.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/main.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.css" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.html" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.css" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.html" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.css" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.html" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/projetIHM/clientAngular/package.json" />
+    <package-json value="$PROJECT_DIR$/projetIHM/L3M-Projet/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/projetIHM/L3M-Projet/node_modules" />
+    <handled-path value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/projetIHM/L3M-Projet/package.json" />
+      <path value="$PROJECT_DIR$/projetIHM/clientAngular/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="infirmier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="patient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="clientAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="secretary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="L3M-Projet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetIHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="projetIHM" type="462c0819:PsiDirectoryNode" />
+              <item name="L3M-Projet" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="shortcut&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="D:\UJF\1ER_SEMESTRE\IHM\projetIHM\projetIHM\L3M-Projet\node_modules\tslint" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\UJF\1ER_SEMESTRE\IHM\projetIHM\projetIHM\clientAngular\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UJF\1ER_SEMESTRE\IHM\projetIHM\projetIHM\L3M-Projet\data" />
+      <recent name="D:\UJF\1ER_SEMESTRE\IHM\projetIHM\projetIHM\clientAngular" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UJF\1ER_SEMESTRE\IHM\projetIHM\projetIHM\L3M-Projet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projetIHM/projetIHM/clientAngular/src/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/projetIHM/clientAngular/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/projetIHM/L3M-Projet/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.start (1)" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e53a61-4049-4048-86c0-046c5ecb3246" name="Default Changelist" comment="" />
+      <created>1543312760690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543312760690</updated>
+      <workItem from="1543312762222" duration="2809000" />
+      <workItem from="1543617770965" duration="6708000" />
+      <workItem from="1544128499706" duration="600000" />
+      <workItem from="1544695020368" duration="745000" />
+      <workItem from="1545603294447" duration="6344000" />
+      <workItem from="1545866396424" duration="670000" />
+      <workItem from="1546205506011" duration="8041000" />
+      <workItem from="1546699351371" duration="75000" />
+      <workItem from="1546699449283" duration="7472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33464000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1691" height="917" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6099476" visible="true" weight="0.1731235" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.39005235" side_tool="true" visible="true" weight="0.1731235" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499385" weight="0.36780104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" sideWeight="0.49939469" weight="0.2486911" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50060534" side_tool="true" weight="0.2486911" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33507854" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/projetIHM/L3M-Projet/serverCabinetMedical.js" />
+        <option value="$PROJECT_DIR$/projetIHM/L3M-Projet/serverCabinetMedical.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/property-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/property-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/property-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/class-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/class-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/input-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/input-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/input-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/output-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/output-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/output-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/index.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/index.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/index.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/property-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/property-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/property-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/class-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/class-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/input-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/input-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/input-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/output-names.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/output-names.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/output-names.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/element-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/element-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/element-selectors.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/index.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/index.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/index.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/css-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/css-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/css-selectors.js.map" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.js" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/projetIHM/clientAngular/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/adresse.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/infirmier.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/patient.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/sexe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/dataInterfaces/cabinet.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/cabinet-medical.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/material-module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1050" column="3" lean-forward="true" selection-start-line="1050" selection-start-column="3" selection-end-line="1050" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="5" column="131" selection-start-line="5" selection-start-column="131" selection-end-line="5" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#h1#0;n#center#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#h1#0;n#center#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/secretary/secretary.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/patient/patient.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetIHM/clientAngular/src/app/infirmier/infirmier.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

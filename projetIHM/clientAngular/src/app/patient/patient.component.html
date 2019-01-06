@@ -1,0 +1,30 @@
+<!---------- Composant Patient ---------->
+<!-- On définit le patient comme pouvant être utilisé et on récupère le patient -->
+<section alx-dragdrop [alx-draggable]="patient">
+  <div class="patient">
+    <!-- Affichage des données du patient -->
+    <img src="http://localhost:8090/data/pers.png" title="Afficher informations du patient" class="bouton" (click)="set_info()" /> {{patient.prenom}} {{patient.nom}}
+
+    <!-- Appel de la fonction pour savoir si il faut cacher on non le bouton désaffecter -->
+    <div *ngIf="cacher(patient);then content"></div>
+    <!-- Contenu à afficher si le patient est affecté à une infirmière -->
+    <ng-template #content>
+      <!-- Appel de la fonction de désaffectation lors du clic sur le bouton désaffecter -->
+      <img src="http://localhost:8090/data/ren.jpg" class="bouton" title="Désaffecter le patient" (click)="desaffectPatientBouton(patient.prenom, patient.nom, patient.sexe, patient.numeroSecuriteSociale, patient.adresse)" />
+    </ng-template>
+
+    <!--idem pour les informations du patient-->
+    <div *ngIf="get_info();then contenu"></div>
+    <ng-template #contenu>
+      <ul>
+        <li>n° ss : {{patient.numeroSecuriteSociale}}</li>
+        <li>Sexe : {{sexePatient(patient.sexe)}}</li>
+        <li>Adresse : {{patient.adresse.numero}} {{patient.adresse.rue}} {{patient.adresse.ville}} {{patient.adresse.codePostal}}{{etagePatient(patient.adresse.etage)}}</li>
+      </ul>
+    </ng-template>
+
+  </div>
+</section>
+
+
+

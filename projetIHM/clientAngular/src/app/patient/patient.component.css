@@ -1,0 +1,8 @@
+.bouton {
+  width: 30px;
+  height: 30px;
+}
+
+.bouton:hover{
+  cursor:pointer;
+}

@@ -1,0 +1,35 @@
+<!---------- Composant de l'infirmière ---------->
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+
+<!-- Appel de la fonction d'affectation lorsqu'un patient est déposé -->
+<section alx-dragdrop  alx-dropzone (alx-ondrop)="affectPatientDragDrop(infirmier.id, $event)" class="container">
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <!-- Affichage des informations du patient -->
+          <th><img src="http://localhost:8090/data/{{infirmier.photo}}" class="photo" style="border-radius:50px;"></th>
+          <th>{{infirmier.prenom}} {{infirmier.nom}}
+            <br/>(<i>{{infirmier.id}}</i>)
+            <hr/>
+            <br/> {{countPatient(infirmier)}} patient(s)</th>
+        </tr>
+      </thead>
+        <!-- Parcours des patients de l'infirmier -->
+      <tbody>
+        <tr *ngFor="let pat of infirmier.patients">
+          <!-- Appel du composant patient -->
+          <td>
+            <app-patient [patient]="pat" [cabinetPatient]="cabinet"></app-patient>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  <!--<h3>Ajouter une affectation</h3>
+  <label>ss patient <input #ss type="text" placeholder="ex : 110083306303570"/></label>
+  <input type="button" value="Soumettre" (click)="affectPatient(dataInf.id,ss.value)"/>-->
+</section>
